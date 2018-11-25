@@ -1,0 +1,29 @@
+Code adds 1 into the vector for every extra lines
+Doesnt consider floating numbers as integers
+
+
+[1]
+['Hello', 'World', 'this', 'is', 'junk']
+[1, 1]
+['I', 'have', 'no', 'idea', 'what', 'to', 'write', 'in', 'this', 'file']
+[1, 1, 1]
+['but', 'still', 'i', 'am', 'writing']
+[1, 1, 1, 1]
+['so', 'here', 'thus', 'it', 'becomes', 'a', 'junk', 'file']
+[1, 1, 1, 1, 1]
+['soo', 'be', 'serious']
+[1, 1, 1, 1, 1, 1]
+[]
+[1, 1, 1, 1, 1, 1, 230]
+['RED', 'MS']
+[1, 1, 1, 1, 1, 1, 230, 280]
+['GREEN', 'MS']
+[1, 1, 1, 1, 1, 1, 230, 280, 390]
+['ORANGE', 'MS']
+[1, 1, 1, 1, 1, 1, 230, 280, 390, 800]
+['YELLOW', 'MS']
+[1, 1, 1, 1, 1, 1, 230, 280, 390, 800, 1]
+['I', 'hope', 'my', 'code', 'tho', 'i', 'never', 'trust', 'my', 'code']
+[1, 1, 1, 1, 1, 1, 230, 280, 390, 800, 1, 1]
+[]
+

@@ -1,0 +1,11 @@
+ Game has Started
+Function getTime
+Function getTime
+Function getTime
+Function getTime
+Function getTime
+  RED  13349.00 ms
+ BLUE  1567.00 ms
+ GREEN  2798.00 ms
+  ORANGE  108.00 ms
+  YELLOW  19442.00 ms
