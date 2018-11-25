@@ -132,7 +132,7 @@ def clear():
 	color=[]
 	order=[]
 	lst=[]
-	print "clean"
+
 	
 
 logo=PhotoImage(file="qbuzz.png")
@@ -184,6 +184,6 @@ stop.pack(fill=BOTH,expand=1)
 
 w=Label(frame,image=logo)
 w.pack()
-root.geometry("450x480")
+root.geometry("500x500")
 root.mainloop()
 
